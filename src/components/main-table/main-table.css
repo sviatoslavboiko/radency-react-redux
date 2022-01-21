@@ -1,0 +1,16 @@
+.main-table {
+  max-height: 388px;
+  overflow-y: scroll;
+}
+
+.main-table thead th {
+  position: sticky; 
+  top: 0; 
+}
+
+.content-cell {
+  white-space: nowrap;
+  max-width: 8rem; 
+  overflow: hidden;
+  text-overflow: ellipsis; 
+}

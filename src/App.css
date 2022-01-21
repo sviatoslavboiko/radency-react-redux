@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.archived-btn {
+  margin-left: 2.83rem;
+  color: white
+}
+
+.float-right {
+  float: right;
+}
