@@ -1,4 +1,4 @@
-# radency-node
+# radency-react-redux
 # Installation
 1. Clone the repo
 2. Open project in IDE and write "npm run start" in console
